@@ -19,7 +19,7 @@ namespace App_Repositorio
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            Console.WriteLine("Hello World");
+            Console.WriteLine("Cambie este texto :P");
         }
     }
 }
