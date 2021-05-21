@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App Repositorio", "App Repositorio\App Repositorio.csproj", "{372E6318-7A6D-4BDA-82E5-EA64F51E975F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{372E6318-7A6D-4BDA-82E5-EA64F51E975F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{372E6318-7A6D-4BDA-82E5-EA64F51E975F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{372E6318-7A6D-4BDA-82E5-EA64F51E975F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{372E6318-7A6D-4BDA-82E5-EA64F51E975F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72DB0BE0-9AF0-4623-8CA0-C6AC09B9C456}
+	EndGlobalSection
+EndGlobal
